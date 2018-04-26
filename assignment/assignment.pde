@@ -13,7 +13,9 @@ void setup() {
 }
 
 void draw() {
-  // Your program will be here...
-  
-  // Do not forget comments!
+   rectMode(CENTER); 
+   rect(150,75,100,50);
+   rect(350,75,100,50);
+   rect(550,75,100,50);
+
 }

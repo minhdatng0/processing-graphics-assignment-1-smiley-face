@@ -1,8 +1,9 @@
 /**
- * <program/assignment name>
- * by <Your Name>
- * 
- * <Two sentence description of program>
+ * Smiley face
+ * by Minh Dat Ngo
+ *
+ * Computer Science Assignment 6
+ * processing graphics 1 smiley face
  * 
  */
 

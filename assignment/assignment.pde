@@ -33,5 +33,6 @@ void draw() {
    ellipse(200,150,300,300);
    ellipseMode(CENTER);
    ellipse(275,250,50,50);
+   ellipse(425,250,50,50);
 
 }

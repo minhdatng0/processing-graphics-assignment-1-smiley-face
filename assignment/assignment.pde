@@ -27,6 +27,6 @@ void draw() {
    strokeWeight(10);
    rect(550,75,100,50);
    ellipseMode(CORNER);
-   ellipseMode();
+   ellipse(200,150,300,300);
 
 }

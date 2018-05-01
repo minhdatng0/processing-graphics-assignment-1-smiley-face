@@ -14,7 +14,7 @@ void setup() {
 
 void draw() {
    rectMode(CENTER);
-   fill(80,120,88);
+   fill(80,120,88); // red,green,blue
    stroke(85,58,185);
    strokeWeight(1);
    rect(150,75,100,50);

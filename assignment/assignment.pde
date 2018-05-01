@@ -32,6 +32,8 @@ void draw() {
    strokeWeight(4);
    ellipse(200,150,300,300);
    ellipseMode(CENTER);
+   fill(13,130,126);
+   
    ellipse(275,250,50,50);
    ellipse(425,250,50,50);
 

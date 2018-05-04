@@ -21,7 +21,7 @@ void draw() {
       strokeWeight(1);
     rect(150,75,100,50);
     fill(193,65,65);
-    text("1st rect",100,120);
+    text("green fill",100,120);
     
    //2nd rect
      fill(160,90,200);
@@ -29,7 +29,7 @@ void draw() {
       strokeWeight(4);
     rect(350,75,100,50);
     textMode(4);
-    text("2nd rect",300,120);
+    text("strokeWeight = 4",300,120);
     
   //3rd rect
      fill(58,85,188);

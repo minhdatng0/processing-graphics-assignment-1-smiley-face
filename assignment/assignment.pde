@@ -19,15 +19,16 @@ void draw() {
      fill(80,120,88); // red,green,blue
       stroke(85,58,185);
       strokeWeight(1);
-      
-  //2nd rect 
+      text("1st",);
     rect(150,75,100,50);
+    
+   //2nd rect
      fill(160,90,200);
       stroke(10,200,100);
       strokeWeight(4);
-      
-   //3rd rect
     rect(350,75,100,50);
+    
+  //3rd rect
      fill(58,85,188);
       stroke(185,58,85);
       strokeWeight(10);

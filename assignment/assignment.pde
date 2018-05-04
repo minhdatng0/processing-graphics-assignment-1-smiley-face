@@ -28,6 +28,8 @@ void draw() {
       stroke(10,200,100);
       strokeWeight(4);
     rect(350,75,100,50);
+    textMode(4);
+    text("2nd rect",300,120);
     
   //3rd rect
      fill(58,85,188);

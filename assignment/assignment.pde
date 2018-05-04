@@ -36,6 +36,7 @@ void draw() {
       stroke(185,58,85);
       strokeWeight(10);
     rect(550,75,100,50);
+    text("strokeWeight =10 and blue fill",500,120);
     
    // head
    ellipseMode(CORNER);

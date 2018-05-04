@@ -19,8 +19,9 @@ void draw() {
      fill(80,120,88); // red,green,blue
       stroke(85,58,185);
       strokeWeight(1);
-      text("1st",);
     rect(150,75,100,50);
+    fill(193,65,65);
+    text("1st rect",100,120);
     
    //2nd rect
      fill(160,90,200);
